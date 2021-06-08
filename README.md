@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" styled="display: flex; align-items: center; justify-content: center;" >
   <img alt="ojmoney" title="ojmoney" src="./public/favicon.png" />
    OJMONEY
 </h1>
