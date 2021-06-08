@@ -1,6 +1,6 @@
 <h1 align="center">
   <img alt="ojmoney" title="ojmoney" src="./public/favicon.png" />
-  dtmoney
+   ojmoney
 </h1>
 
 <p align="center">
