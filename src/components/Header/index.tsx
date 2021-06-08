@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import logoImg from '../../assets/logo.svg'
+import logoImg from '../../assets/logo_oj.svg'
 import { ModalContext } from '../../ModalContext';
 
 import { Container, Content } from "./styles";
