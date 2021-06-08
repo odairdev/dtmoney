@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import logoImg from '../../assets/logo_oj.svg'
+import logoImg from '../../assets/logo.svg'
 import { ModalContext } from '../../ModalContext';
 
 import { Container, Content } from "./styles";
@@ -12,7 +12,7 @@ const { handleOpenNewTransactionModal } = useContext(ModalContext)
     return (
         <Container>
             <Content>
-                <img src={logoImg} alt="OJ Money" />
+                <img src={logoImg} alt="DT Money" />
                 <button type="button" onClick={handleOpenNewTransactionModal}>Nova Transação</button>
             </Content>
         </Container>

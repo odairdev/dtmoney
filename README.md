@@ -1,6 +1,6 @@
 <h1 align="center" styled="display: flex; align-items: center; justify-content: center;" >
   <img alt="ojmoney" title="ojmoney" src="./public/favicon.png" />
-   OJMONEY
+   DTmoney
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@ This project was developed using the following technologies:
 
 ## 💻 Project
 
-OJMONEY is a web app created to manage transactions made in your day to day life. This App was developed during Ignite Bootcamp taught by RocketSeat and a few extra features were added by myself, those being a SearchBar and Transactions types filter for now. Currently it uses Miragejs technology which allows you to use a fake database, in the future, a real API is gonna be developed as well as login with authentication and a profile page.
+DTmoney is a web app created to manage transactions made in your day to day life. This App was developed during Ignite Bootcamp taught by RocketSeat and a few extra features were added by myself, those being a SearchBar and Transactions types filter for now. Currently it uses Miragejs technology which allows you to use a fake database, in the future, a real API is gonna be developed as well as login with authentication and a profile page.
 
 ## 🔖 Layout
 
