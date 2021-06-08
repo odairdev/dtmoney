@@ -7,8 +7,6 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 </p>
 
-<br>
-
 ## ✨ Technologies
 
 This project was developed using the following technologies:
@@ -19,7 +17,7 @@ This project was developed using the following technologies:
 
 ## 💻 Project
 
-OJmoney is a web app to manage transactions made in your day to day life. This App was developed during Ignite Bootcamp taught by RocketSeat and a few extra feature were added by myself, those being a SearchBar and Transactions types filter. Currently it uses miragejs techlogy which allows me to use a fake database, in the future, a real API is gonna be developed as well as login with authentication and a profile page.
+OJmoney is a web app created to manage transactions made in your day to day life. This App was developed during Ignite Bootcamp taught by RocketSeat and a few extra features were added by myself, those being a SearchBar and Transactions types filter for now. Currently it uses Miragejs technology which allows you to use a fake database, in the future, a real API is gonna be developed as well as login with authentication and a profile page.
 
 ## 🔖 Layout
 
